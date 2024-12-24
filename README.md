@@ -58,6 +58,8 @@ Figure -02 HALF Subtractor
 
 Developed by:A.NANDEESWARI
 RegisterNumber:24900542
+
+
 HALFF ADDER:
 ```
 module ha(a,b,sum,carry);
